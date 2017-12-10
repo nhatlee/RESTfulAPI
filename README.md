@@ -1,0 +1,1 @@
+This is example for restful api in Go which use gorilla/mux
